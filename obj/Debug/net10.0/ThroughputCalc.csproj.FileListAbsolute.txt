@@ -1,0 +1,14 @@
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\bin\Debug\net10.0\ThroughputCalc.exe
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\bin\Debug\net10.0\ThroughputCalc.deps.json
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\bin\Debug\net10.0\ThroughputCalc.runtimeconfig.json
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\bin\Debug\net10.0\ThroughputCalc.dll
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\bin\Debug\net10.0\ThroughputCalc.pdb
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\ThroughputCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\ThroughputCalc.AssemblyInfoInputs.cache
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\ThroughputCalc.AssemblyInfo.cs
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\ThroughputCalc.csproj.CoreCompileInputs.cache
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\ThroughputCalc.dll
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\refint\ThroughputCalc.dll
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\ThroughputCalc.pdb
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\ThroughputCalc.genruntimeconfig.cache
+C:\Users\Nidal\Desktop\Coding\Outlier\C-projects\5GBTSTPcalculator\csharp\ThroughputCalc\obj\Debug\net10.0\ref\ThroughputCalc.dll
